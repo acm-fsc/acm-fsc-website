@@ -1,11 +1,13 @@
-import type { NextPage } from 'next'
+import Hero from "@/components/home/hero";
+import Logo from "@/components/home/logo";
 
-const Home: NextPage = () => {
+const Home = () => {
   return (
-  <div>
-      <h1 className="text-center">Homepage</h1>
-    </div>
-  )
-}
+    <>
+      <Logo />
+      <Hero />
+    </>
+  );
+};
 
-export default Home
+export default Home;
