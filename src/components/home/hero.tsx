@@ -1,7 +1,7 @@
 const Hero = () => {
   return (
-    <div className="mx-5 text-center">
-      <h1 className="text-xl font-bold">
+    <div className="mx-5">
+      <h1 className="text-xl font-bold text-center">
         Welcome to FSC Tech Club
       </h1>
       <p className="my-2"> 
