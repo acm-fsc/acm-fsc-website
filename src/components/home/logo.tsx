@@ -1,4 +1,4 @@
-const Logo = () => {
+const Logo = (): JSX.Element => {
   return(
   <div className="my-6">
       <div className="flex justify-center items-center h-full w-full">

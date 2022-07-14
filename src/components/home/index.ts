@@ -1,5 +1,5 @@
-import Latest from "./latest";
-import Logo from "./logo";
-import Hero from "./hero";
+import Latest from "./Latest";
+import Logo from "./Logo";
+import Hero from "./Hero";
 
 export { Latest, Logo, Hero };
