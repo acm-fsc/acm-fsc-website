@@ -1,6 +1,4 @@
-import Hero from "@/components/home/hero";
-import Latest from "@/components/home/latest";
-import Logo from "@/components/home/logo";
+import { Hero, Logo, Latest } from "@/components/Home";
 
 import { latests } from "@/data/latests";
 
